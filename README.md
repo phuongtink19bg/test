@@ -3,4 +3,4 @@ mysite
 tttttt
 django tutorial project
 # test
-test2iiddgi2
+test2iiddffgi2
